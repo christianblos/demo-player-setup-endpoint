@@ -1,5 +1,5 @@
 This is a demo project for a player setup API endpoint that accepts
-a groovy script to set up a player.
+a groovy script to set up a player. See my blog post [The Player Setup Endpoint – Let the Frontend run Backend code](https://tech.innogames.com/the-player-setup-endpoint-let-the-frontend-run-backend-code/).
 
 Start the application via `./gradlew bootRun`.
 
